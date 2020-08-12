@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "content": "1.新增全球节点; \n2.优化跨链交易.",
+    "version": "1.0.4",
+    "content": "1.修复了DT主网的转账功能;\n2.优化了前端与部分手机系统的兼容问题;\n3.解决了一些已知问题。",
     "url": "https://dtttesttt.oss-cn-shenzhen.aliyuncs.com/app/dfpro_latest.apk"
 }
